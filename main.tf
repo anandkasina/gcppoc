@@ -3,5 +3,5 @@ provider "google" {
   region      = "us-central1"
 }
 resource "google_compute_network" "vpc_network" {
-  name = "vpc-network1"
+  name = "vpc-network11"
 }
